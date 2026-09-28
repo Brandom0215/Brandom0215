@@ -2,30 +2,31 @@
 
 ### Estudiante de Desarrollo y Gestión de Software
 
-Estudiante de **Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá (UTP)**.
+¡Hola! Soy Brandon, estudiante de Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá.
 
-Durante mi formación académica y proyectos universitarios y personales he trabajado con diferentes lenguajes, tecnologías y herramientas para el desarrollo de aplicaciones web, móviles, de escritorio y sistemas interactivos.
+Me gusta aprender cosas nuevas, experimentar con diferentes tecnologías y llevar lo que aprendo a proyectos reales. Durante la carrera he tenido la oportunidad de trabajar en aplicaciones web, móviles y proyectos interactivos, tanto de forma individual como en equipo.
 
-Actualmente estoy enfocado en seguir fortaleciendo mis conocimientos en desarrollo de software, bases de datos, APIs, arquitectura de software, Docker y desarrollo backend.
+Actualmente sigo aprendiendo y buscando maneras de mejorar como desarrollador, especialmente en desarrollo backend, bases de datos, APIs y arquitectura de software.
 
 ---
 
 ## Sobre mí
 
-- Estudiante de Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá.
-- He trabajado con diferentes lenguajes de programación a lo largo de mi formación académica.
-- Interesado en desarrollo web, móvil, backend y arquitectura de software.
-- Experiencia trabajando con bases de datos relacionales.
-- He participado en proyectos universitarios utilizando diferentes tecnologías y herramientas.
-- Actualmente explorando Docker, PostgreSQL, FastAPI, WebSockets y APIs de inteligencia artificial.
-- Trabajo con Git y GitHub para el control de versiones y desarrollo colaborativo.
-- Interesado en convertir los conocimientos adquiridos durante mi formación en proyectos prácticos.
+- Me interesa el desarrollo de aplicaciones web, móviles y backend.
+- He trabajado con diferentes lenguajes y tecnologías durante mi formación y en proyectos universitarios.
+- Disfruto trabajar en equipo y aprender de otras personas.
+- Me gusta que los proyectos tengan un propósito y busquen resolver problemas reales.
+- Actualmente estoy explorando Docker, PostgreSQL, FastAPI y otras herramientas para ampliar mis conocimientos.
+
+Mi objetivo es seguir creciendo como desarrollador, crear proyectos de los que me sienta orgulloso y convertir lo que voy aprendiendo en soluciones útiles.
 
 ---
 
-## Lenguajes de programación
+## Tecnologías
 
-Tecnologías con las que he trabajado durante mi formación académica y proyectos:
+Estas son algunas de las tecnologías y herramientas con las que he trabajado. Sigo aprendiendo y mejorando mis habilidades con ellas.
+
+### Lenguajes de programación
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -34,11 +35,9 @@ Tecnologías con las que he trabajado durante mi formación académica y proyect
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
----
-
-## Desarrollo web
+### Desarrollo web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -46,37 +45,13 @@ Tecnologías con las que he trabajado durante mi formación académica y proyect
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-He trabajado en proyectos web utilizando tecnologías de frontend y backend, incluyendo interfaces web, lógica de aplicación, integración con bases de datos y componentes interactivos.
+### Backend y APIs
 
-También he explorado **Three.js** para la representación de contenido 3D en aplicaciones web.
-
----
-
-## Desarrollo móvil
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-He trabajado con **Kotlin y Android** durante mi formación académica para el desarrollo de aplicaciones móviles.
-
----
-
-## Backend y APIs
-
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 
-He trabajado con diferentes tecnologías para desarrollar lógica de backend, APIs y comunicación entre aplicaciones.
-
-Actualmente estoy explorando **FastAPI, WebSockets y APIs de inteligencia artificial** en proyectos de desarrollo.
-
----
-
-## Bases de datos
+### Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -84,13 +59,7 @@ Actualmente estoy explorando **FastAPI, WebSockets y APIs de inteligencia artifi
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-He trabajado con **MySQL, SQL Server, SQLite y PostgreSQL** en diferentes proyectos académicos y personales.
-
-Actualmente estoy utilizando **PostgreSQL mediante Supabase** y fortaleciendo mis conocimientos en diseño, gestión y migración de bases de datos.
-
----
-
-## Herramientas y entorno
+### Herramientas y plataformas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -101,87 +70,76 @@ Actualmente estoy utilizando **PostgreSQL mediante Supabase** y fortaleciendo mi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
-He utilizado estas herramientas en diferentes proyectos de desarrollo, entornos académicos y trabajos colaborativos.
+---
 
-Actualmente estoy incorporando **Docker** a mi flujo de trabajo y fortaleciendo mis conocimientos sobre entornos Linux.
+## Proyectos destacados
+
+### Hofloc — Sistema de gestión ganadera
+
+Hofloc fue un proyecto universitario desarrollado de manera colaborativa con la participación de todo el salón, tomando como referencia las necesidades de una empresa ganadera de la región.
+
+La empresa realizaba muchos de sus procesos de forma manual, utilizando lápiz y papel. El proyecto buscó digitalizar parte de estas tareas mediante un sistema de gestión.
+
+La solución incluía una página web informativa sobre la empresa y un área administrativa destinada a gestionar diferentes procesos de la organización. El proyecto llegó a ser publicado en internet como parte de su desarrollo.
+
+Participar en este proyecto me permitió conocer mejor el proceso de desarrollar software a partir de una necesidad real, además de trabajar junto a otros estudiantes para construir una solución completa.
+
+**Repositorio:** [Ver proyecto en GitHub](https://github.com/Soft7Vaquitas/Proyecto_Vaquitas_Respaldo)
+
+**Tipo:** Proyecto universitario colaborativo  
+**Estado:** Desarrollado y publicado en internet
 
 ---
 
-## Formación académica
+### SaludApp — Aplicación móvil de salud
 
-### Universidad Tecnológica de Panamá
+SaludApp es una aplicación móvil desarrollada con Kotlin durante un proyecto universitario realizado a lo largo del semestre junto al profesor.
 
-**Desarrollo y Gestión de Software**
+La aplicación está orientada a facilitar la gestión y el seguimiento de diferentes aspectos relacionados con la salud del usuario.
 
-Durante mi formación he trabajado progresivamente con diferentes tecnologías:
+Este proyecto me permitió trabajar en el desarrollo de aplicaciones Android y poner en práctica los conocimientos adquiridos con Kotlin mientras desarrollábamos la aplicación de manera progresiva durante el semestre.
 
-| Etapa | Tecnologías principales |
-| --- | --- |
-| Primer año | PSeInt, C |
-| Segundo año | Java |
-| Formación posterior | C#, HTML, CSS, JavaScript |
-| Formación posterior | PHP, Kotlin |
-| Actualmente | Visual Basic, Docker, PostgreSQL |
+**Repositorio:** [Ver proyecto en GitHub](https://github.com/Brandom0215/SaludApp)
 
-Además de los lenguajes de programación, he trabajado con bases de datos, desarrollo web, desarrollo móvil, control de versiones, diseño de interfaces, APIs y diferentes herramientas de desarrollo.
+**Tecnologías:** Kotlin · Android  
+**Tipo:** Proyecto universitario
 
 ---
 
-## Proyectos
+### SeñaVoz — Traducción de voz a lengua de señas
 
-### Proyecto universitario — Aplicación interactiva
+SeñaVoz es el proyecto que actualmente desarrollo junto a mi equipo en la materia de Ingeniería de Software.
 
-Proyecto desarrollado junto a compañeros utilizando **C#, Unity y Python**.
+La idea consiste en una plataforma web capaz de recibir voz y representarla mediante un avatar que realiza la traducción a lengua de señas. El proyecto busca explorar cómo diferentes tecnologías pueden combinarse para crear una herramienta orientada a la accesibilidad.
 
-El proyecto busca integrar diferentes tecnologías para desarrollar una aplicación interactiva como parte de la formación universitaria.
+Actualmente estamos trabajando en diferentes partes del sistema, incluyendo el procesamiento de voz y la representación de la traducción mediante un avatar animado.
 
-**Tecnologías:** C# · Unity · Python
+Este proyecto me está permitiendo aprender sobre integración de tecnologías, desarrollo web y los retos que aparecen al construir una solución de este tipo.
 
----
+**Repositorio:** [Ver proyecto en GitHub](https://github.com/AnthonyPerez10/Avatarlenguajese-as)
 
-### Sistema de gestión de inventario
-
-Proyecto orientado al desarrollo de un sistema de gestión de inventario para pequeños negocios.
-
-La idea surge a partir de una problemática observada en un entorno real y busca facilitar el control de productos, existencias, compras, ventas y otros procesos relacionados con la gestión de inventario.
-
-**Enfoque:** Desarrollo de software · Bases de datos · Lógica de negocio
-
----
-
-### Asistente local
-
-Proyecto personal orientado a explorar el funcionamiento de un asistente de inteligencia artificial ejecutado localmente.
-
-El proyecto contempla el uso de un equipo como servidor y diferentes tecnologías para integrar modelos de IA, APIs y automatización.
-
-**Tecnologías:** Python · APIs · Linux · Docker · IA local
+**Tipo:** Proyecto universitario colaborativo en desarrollo  
+**Enfoque:** Desarrollo web · Procesamiento de voz · Avatar 3D · Accesibilidad
 
 ---
 
 ## Actualmente aprendiendo
 
-- Docker y containerización.
-- PostgreSQL y gestión de bases de datos.
-- FastAPI y desarrollo backend.
-- WebSockets y comunicación en tiempo real.
-- Arquitectura de software.
+- Desarrollo backend con Python y FastAPI.
+- Gestión de bases de datos con PostgreSQL y Supabase.
+- Docker y el uso de contenedores.
+- Arquitectura de software y desarrollo de microservicios.
+- Integración de APIs y comunicación en tiempo real.
 - Desarrollo de aplicaciones móviles con Kotlin.
-- Integración de APIs.
-- Buenas prácticas de desarrollo y control de versiones.
-
----
-
-## Objetivo
-
-Mi objetivo es continuar fortaleciendo mis conocimientos mediante la creación de proyectos prácticos, aprender nuevas tecnologías y transformar los conocimientos adquiridos durante mi formación académica en experiencia de desarrollo real.
 
 ---
 
 ## Contacto
 
+Puedes conocer más sobre mi trabajo y los proyectos en los que participo a través de mi perfil de GitHub.
+
 **GitHub:** [@Brandom0215](https://github.com/Brandom0215)
 
 ---
 
-*Aprendiendo, desarrollando y construyendo experiencia a través de cada proyecto.*
+*Aprendiendo en cada proyecto y construyendo experiencia paso a paso.*
